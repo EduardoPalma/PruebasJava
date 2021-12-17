@@ -3,6 +3,7 @@ import Logica.ListaEnvios;
 
 public class App {
 
+  //programa para señor nicolas que estudie
   public static void main(String [] args){
 
     Envio e = new Documento(10,5,1234,"1234","4321");
